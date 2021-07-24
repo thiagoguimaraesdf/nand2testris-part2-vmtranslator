@@ -19,6 +19,6 @@
 
 <b>Some considerations:</b>
 
-- My main goal was to develop am easy to read and straightforward code for achieving both projects goals. Code concision and performance were not a top concern.
+- My main goal was to develop an easy to read and straightforward code for achieving both projects goals. Code concision and performance were not a top concern.
 - In this context, Python was my obvious first choice (over Java). 
 - In moments of despair, I used the following reference as guidance (written in Java): https://github.com/xctom/Nand2Tetris.git
